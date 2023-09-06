@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(116,1): warning C4812: obsolete declaration style: please use 'Set<ItemType>::Set' instead
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(212,1): warning C4812: obsolete declaration style: please use 'Set<ItemType>::Set' instead
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(212,1): warning C4812: obsolete declaration style: please use 'Set<int>::Set' instead
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(213): message : while compiling class template member function 'Set<int>::Set(const Set<int> &)'
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\main.cpp(25): message : see reference to function template instantiation 'Set<int>::Set(const Set<int> &)' being compiled
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\main.cpp(9): message : see reference to class template instantiation 'Set<int>' being compiled
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(116,1): warning C4812: obsolete declaration style: please use 'Set<int>::Set' instead
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(117): message : while compiling class template member function 'Set<int>::Set(void)'
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\main.cpp(9): message : see reference to function template instantiation 'Set<int>::Set(void)' being compiled
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(212,1): warning C4812: obsolete declaration style: please use 'Set<std::string>::Set' instead
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(213): message : while compiling class template member function 'Set<std::string>::Set(const Set<std::string> &)'
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\main.cpp(26): message : see reference to function template instantiation 'Set<std::string>::Set(const Set<std::string> &)' being compiled
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\main.cpp(10): message : see reference to class template instantiation 'Set<std::string>' being compiled
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(116,1): warning C4812: obsolete declaration style: please use 'Set<std::string>::Set' instead
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\Set.h(117): message : while compiling class template member function 'Set<std::string>::Set(void)'
+C:\Users\benja\source\repos\CS32Homework4\CS32Homework4\main.cpp(10): message : see reference to function template instantiation 'Set<std::string>::Set(void)' being compiled
+  CS32Homework4.vcxproj -> C:\Users\benja\source\repos\CS32Homework4\Debug\CS32Homework4.exe

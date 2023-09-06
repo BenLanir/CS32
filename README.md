@@ -1,0 +1,1 @@
+These are projects for an introduction to computer science course at UCLA. The most interesting project is project 3 which is an ASCII Rogue-Like game.
